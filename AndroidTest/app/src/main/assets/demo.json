@@ -1,0 +1,14 @@
+[
+  {
+    "desc": "事件分发机制-验证事件传递流程",
+    "activityPath": ".activity.TouchActivity"
+  },
+  {
+    "desc": "事件分发机制-验证cancel事件",
+    "activityPath": ".activity.TouchCancelActivity"
+  },
+  {
+    "desc": "事件分发机制-验证ViewGroup事件拦截",
+    "activityPath": ".activity.TouchInterceptActivity"
+  }
+]

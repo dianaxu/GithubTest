@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.TouchActivity"></activity>
+        <activity android:name=".activity.TouchCancelActivity"></activity>
+        <activity android:name=".activity.TouchInterceptActivity"></activity>
     </application>
 
 </manifest>
